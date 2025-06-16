@@ -1,1 +1,8 @@
-
+h1
+{
+  color : Purple;
+  background: Pink;
+  border : 10px dashed Brown;
+  padding : 5px;
+  width : 500px;
+}
